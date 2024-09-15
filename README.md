@@ -9,7 +9,7 @@ addpath('+Algorithms')
 savepath
 ```
 ## Root finding
-root finding methods are implemented in `+Algorithms/rootFind`. All of them can be used following a similar structure:
+root finding methods are implemented in `+methods/rootFind`. All of them inherit from the same class and can be used following the same structure:
 ```
 import Algorithms.rootFind.Bisection
  
