@@ -3,7 +3,7 @@ Complete and exhaustive repository with MATLAB implementation of 50+ numerical m
 Easy to use programming interface.
 
 ## Get Started
-To be accessible to MATLAB, the folder `+Algorithms` must be on the MATLAB path. In the MATLAB command window run:
+To be accessible to MATLAB, the folder `+methods` must be on the MATLAB path. In the MATLAB command window run:
 ```
 addpath('+Algorithms')  
 savepath
