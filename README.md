@@ -1,6 +1,5 @@
 # MATLAB Numerical methods
-Complete and exhaustive repository with MATLAB implementation of 50+ numerical methods.
-Easy to use programming interface.
+Repository with MATLAB implementation of a large number of numerical methods.
 
 ## Get Started
 To be accessible to MATLAB, the folder `+methods` must be on the MATLAB path. In the MATLAB command window run:
