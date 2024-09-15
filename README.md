@@ -5,7 +5,7 @@ Easy to use programming interface.
 ## Get Started
 To be accessible to MATLAB, the folder `+methods` must be on the MATLAB path. In the MATLAB command window run:
 ```
-addpath('+Algorithms')  
+addpath('+methods')  
 savepath
 ```
 ## Root finding
